@@ -37,3 +37,5 @@ const peso = parseFloat(prompt("Ingrese su peso: "));
 const altura = parseFloat(prompt("Ingrese su altura: "));
 let bmi = peso / (altura * altura);
 console.log(`Tu bmi es ${bmi}`)
+
+

@@ -14,7 +14,8 @@ console.log(resultado);
 
 let valor_auxiliar = parseInt(Math.random()*(10) + 1);
 const numero = parseInt(prompt("Ingrese el numero: "));
-let resultado = (numero === valor_auxiliar)?"Felicitaciones, ese era!":"Lo siento, intenta nuevamente!";
+let resultado = (numero === valor_auxiliar)?"Felicitaciones, ese era!":
+                "Lo siento, intenta nuevamente!";
 console.log(resultado);
 
 //EJERCICIO8
@@ -67,3 +68,5 @@ const multiplo = (numero%5==0 && numero%3==0) ? "bingbong":
                  (numero%3==0) ? "bing":
                  numero;
 console.log(multiplo);
+
+
