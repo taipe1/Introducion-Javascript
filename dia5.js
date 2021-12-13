@@ -1,4 +1,4 @@
-//                           DIA 4
+//                           DIA 5
 
 //EJERCICIO23
 //Escribe un programa que le pida una frase al usuario y la repita en mayúsculas. Por ejemplo:
